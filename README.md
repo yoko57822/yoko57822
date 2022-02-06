@@ -1,10 +1,13 @@
 #### yoko57822's GitHub
+### Available Programming language
+* **C/C++**
+* **C#**
 
 
-## Available Programming language
-C/C++, C#, Unity
 
-gits -> https://github.com/yoko57822/yoko57822
+#### Unity Indie Game Developer
+
+**Script gits ->** https://github.com/yoko57822/yoko57822
 
 <!--
 **yoko57822/yoko57822** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
