@@ -1,7 +1,7 @@
-## yoko57822's GitHub
+#### yoko57822's GitHub
 
 
-# Available Programming language
+## Available Programming language
 C/C++, C#, Unity
 
 gits -> https://github.com/yoko57822/yoko57822
