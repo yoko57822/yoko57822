@@ -1,4 +1,6 @@
-### Hi there 👋
+### yoko57822's GitHub
+
+gits -> https://github.com/yoko57822/yoko57822
 
 <!--
 **yoko57822/yoko57822** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
