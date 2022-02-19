@@ -7,7 +7,7 @@
 
 #### Unity Indie Game Developer
 
-**Script gits ->** https://github.com/yoko57822/yoko57822
+**Script gits ->** https://gist.github.com/yoko57822
 
 <!--
 **yoko57822/yoko57822** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
