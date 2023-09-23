@@ -5,7 +5,7 @@
 
 
 
-#### Unity Indie Game Developer
+#### Indie Game Developer
 
 **Script gits ->** https://gist.github.com/yoko57822
 
